@@ -1,6 +1,6 @@
 # Git Lesson Homework
 
-1. SAIDUMAR AKBAROV
+1. My name is SAIDUMAR AKBAROV
 2. My favourute sport is football, I love this sport becouse I have been committed to it from young age regarding my brothers and friends in my hometown.
 3. My favourute food is "Plov", this food is from Uzbek kitchen and it's special food that can pleasure every one.
 4. My favourute music is Mitski - My Love Mine All Mine (https://www.youtube.com/watch?v=vx4kLgnFexo)
